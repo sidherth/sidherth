@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/pronob1010/pronob1010.svg)](http://hits.dwyl.com/pronob1010/pronob1010)
+[![HitCount](http://hits.dwyl.com/sidherth/sidherth.svg)](http://hits.dwyl.com/sidherth/sidherth)
 <img src="https://komarev.com/ghpvc/?username=sidherth"> 
 ### Hi there, I'm Mridul 👋
 
@@ -25,7 +25,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br><br/>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronob1010&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidherth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
  <br>
  <hr>

@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on a educational platform. Keep an eye for it.
 - 👯 I have successfully worked on production level web projects  front-end and back-end.
 - 👯 I’m looking to collaborate on opensource and group projects.
+- 👯 I'm also a mobile application developer 
 
  
 
@@ -32,6 +33,7 @@
  
  ### Connect with me:
  
+ <p> 880 1792113554 </a>
 <a src="https://www.linkedin.com/in/pronobmozumder/"> <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 <a src="https://www.facebook.com/pronob1010"><img align="left" alt="mehrab-haque | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
  

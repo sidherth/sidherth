@@ -36,15 +36,15 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br /><br /><br />
 
-<img align="left" alt="Md Al-Amin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karno786&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=karno786&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Mridul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sidherth&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sidherth&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karno786)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sidherth)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: (http://hits.dwyl.com/sidherth/sidherth.svg)
+[website]: https://sites.google.com/view/mridulbaral/home
 [facebook]: https://www.facebook.com/sidherth/
 [linkedin]: https://www.linkedin.com/in/sidherth-sid-098bb6176/
 
